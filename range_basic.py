@@ -1,3 +1,5 @@
 #range()
 x = range(10)
-print(x)
+y = range(5, 10)
+for n in z:
+    print(n)
